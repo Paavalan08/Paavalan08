@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on intersting NodeJS projects
 - 📫 You can reacj me at [https://paavalan.com](https://paavalan.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to code 😂
 
 <!---
