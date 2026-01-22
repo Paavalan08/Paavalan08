@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript/TypeScript and backend development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on intersting NodeJS projects
-- 📫 You can reacj me at [https://paavalan.com](https://paavalan.com)
+- 📫 You can reach me at [[https://paavalan.vercel.app/](https://paavalan.vercel.app/)]
 - ⚡ Fun fact: I love to code 😂
 
 <!---
