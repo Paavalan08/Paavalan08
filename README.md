@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paavalan08
 - 👀 I’m interested in JavaScript/TypeScript and backend development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently im Working as SEO
 - 💞️ I’m looking to collaborate on intersting NodeJS projects
 - 📫 You can reach me at [([paavalan-idc8.vercel.app](https://paavalan-idc8.vercel.app/))]
 - ⚡ Fun fact: I love to code 😂
